@@ -1,16 +1,18 @@
-### Hi there 👋
+![Logo](https://cdn.discordapp.com/attachments/1013489547419590759/1041910144797245450/hiHelloIcon.png)
+#About Me
+Blah blah blah blah I'll do something here later.
 
-<!--
-**BearTheCoder/BearTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Projects
+- http://streambingo.live (Waiting for CNAME from DNS and SSL Certificate) <br>
+  https://streambingo.up.railway.app (Temp link)
+- ChaosBot
 
-Here are some ideas to get you started:
+#Links
+- [Twitter](https://twitter.com/BearTheCoder)
+- [YouTube](https://www.youtube.com/channel/UCWg8LAQk6NLQfj4Wr3zImKA)
+- [Twitch](https://www.twitch.tv/bearthecoder)
+- [Discord](https://discord.gg/DuMJjretE2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Help Pay for Servers
+[Buy me a Coffee](https://www.buymeacoffee.com/bearthecoder) 
+I don't need the money, but if you want to help and don't know how to code then helping pay for the servers is the next best thing. <3
