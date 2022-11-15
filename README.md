@@ -8,10 +8,10 @@ Blah blah blah blah I'll do something here later.
 - ChaosBot
 
 # Links
-- [Twitter](https://twitter.com/BearTheCoder)
-- [![YouTube](https://img.shields.io/youtube/channel/views/UCWg8LAQk6NLQfj4Wr3zImKA?style=social)](https://www.youtube.com/channel/UCWg8LAQk6NLQfj4Wr3zImKA)
-- [Twitch](https://www.twitch.tv/bearthecoder)
-- [Discord](https://discord.gg/DuMJjretE2)
+[Twitter](https://twitter.com/BearTheCoder)
+YouTube[![YouTube](https://img.shields.io/youtube/channel/views/UCWg8LAQk6NLQfj4Wr3zImKA?style=social)](https://www.youtube.com/channel/UCWg8LAQk6NLQfj4Wr3zImKA)
+[Twitch](https://www.twitch.tv/bearthecoder)
+[Discord](https://discord.gg/DuMJjretE2)
 
 # Help Pay for Servers
 [Buy me a Coffee](https://www.buymeacoffee.com/bearthecoder) 
