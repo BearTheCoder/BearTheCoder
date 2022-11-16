@@ -3,7 +3,7 @@
 Blah blah blah blah I'll do something here later.
 
 # Projects
-- http://streambingo.live
+- https://streambingo.live
 - ChaosBot
 
 ## Links
