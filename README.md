@@ -3,8 +3,7 @@
 Blah blah blah blah I'll do something here later.
 
 # Projects
-- http://streambingo.live (Waiting for CNAME from DNS and SSL Certificate) <br>
-  https://streambingo.up.railway.app (Temp link)
+- http://streambingo.live
 - ChaosBot
 
 ## Links
@@ -14,5 +13,4 @@ Blah blah blah blah I'll do something here later.
 [![Discord](https://img.shields.io/discord/1034695813026283580?color=%235865F2&label=Discord&logo=Discord)](https://discord.gg/DuMJjretE2)
 
 ### Help Pay for Servers
-[Buy me a Coffee](https://www.buymeacoffee.com/bearthecoder) 
-I don't need the money, but if you want to help and don't know how to code then helping pay for the servers is the next best thing. <3
+[Rich people click here](https://www.buymeacoffee.com/bearthecoder) 
