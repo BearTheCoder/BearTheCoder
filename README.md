@@ -3,9 +3,13 @@
 Blah blah blah blah I'll do something here later.
 
 # Live Projects
-- https://streambingo.live
 - ChaosBot (Discord Bot)
+- https://streambingo.live
 - https://www.macaquariums.com (commission)
+- https://bearthecoder.tech/flowField/ (WIP)
+- https://bearthecoder.tech/perlinNoise/ (WIP)
+- https://bearthecoder.tech/obsAssets/sagarParticles/ (FHD - p5.js rip for OBS)
+- https://bearthecoder.tech/obsAssets/japanParallax/ (2D Perline noise parallax script for OBS)
 
 ## Links
 [![Twitter](https://img.shields.io/twitter/follow/bearthecoder?style=social)](https://twitter.com/BearTheCoder) <br>
