@@ -2,9 +2,10 @@
 # About Me
 Blah blah blah blah I'll do something here later.
 
-# Projects
+# Live Projects
 - https://streambingo.live
-- ChaosBot
+- ChaosBot (Discord Bot)
+- https://www.macaquariums.com (commission)
 
 ## Links
 [![Twitter](https://img.shields.io/twitter/follow/bearthecoder?style=social)](https://twitter.com/BearTheCoder) <br>
